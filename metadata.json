@@ -1,0 +1,7 @@
+{
+  "name": "HammerMatch - Craftsman Marketplace",
+  "description": "A comprehensive clone of a leading craftsman marketplace, featuring AI-powered job analysis and a smart assistant to help users find the right professionals for their home improvement projects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
